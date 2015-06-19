@@ -17,12 +17,13 @@
     "license": "MIT",
     "ignore": [],
     "description": "Image Annotation for the Web - Annotorious Core Library",
-    "version": "0.6.3a",
+    "version": "0.6.3b",
     "main": [
-		"./annotorious.min",
-		"css/**/*.*"
+		"./annotorious.min.js",
+		"./css/annotorious.css",
+        "./css/annotorious-dark.css"
 	],
     "dependencies": {
-		
+
     }
 }
