@@ -1,29 +1,26 @@
 {
-    "author": {
-        "name": "https://github.com/annotorious/annotorious/graphs/contributors"
-    },
-    "name": "annotorious-bower",
-    "keywords": [
-        "annotorious",
-        "image",
-        "annotation",
-		"web"
-    ],
-	 "ignore": [
-        "**/.*",
-        "node_modules",
-        "components"
-    ],
-    "license": "MIT",
-    "ignore": [],
-    "description": "Image Annotation for the Web - Annotorious Core Library",
-    "version": "0.6.3b",
-    "main": [
-		"./annotorious.min.js",
-		"./css/annotorious.css",
-        "./css/annotorious-dark.css"
-	],
-    "dependencies": {
-
-    }
+  "author": {
+    "name": "https://github.com/annotorious/annotorious/graphs/contributors"
+  },
+  "name": "annotorious-bower",
+  "keywords": [
+    "annotorious",
+    "image",
+    "annotation",
+    "web"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "description": "Image Annotation for the Web - Annotorious Core Library",
+  "version": "0.6.3b",
+  "main": [
+    "./annotorious.min.js",
+    "./css/annotorious.css"
+  ],
+  "dependencies": {}
 }
