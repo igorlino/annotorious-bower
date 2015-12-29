@@ -20,7 +20,8 @@
   "version": "0.6.3b",
   "main": [
     "./annotorious.min.js",
-    "./css/annotorious.css"
+    "./css/annotorious.css",
+    "./images/*.png"
   ],
   "dependencies": {}
 }
